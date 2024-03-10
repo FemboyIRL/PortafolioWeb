@@ -1,0 +1,40 @@
+//-- CONTENIDO --//
+
+.texto{
+    width: 40em;
+    position: absolute;
+    left: 35em;
+    top: 17em;
+}
+
+.titulo h2{
+   color: #8A2BE2;
+   font-family: 'Roboto', sans-serif; 
+}
+
+.parrafos p{
+    font-family: 'Georgia', serif;
+    text-align: justify;
+    color: #F5F5DC;
+    
+}
+
+.parrafos ul li{
+    font-family: 'Georgia', serif;
+    color: #F5F5DC;
+}
+
+.Curso1{
+    opacity: 0.5;
+    background-color: #8A2BE2;
+    border: 5px solid black;
+}
+
+.Curso1:hover{
+    
+    opacity: 1;
+}
+
+#botondelmal{
+    margin-left: 1rem;
+}

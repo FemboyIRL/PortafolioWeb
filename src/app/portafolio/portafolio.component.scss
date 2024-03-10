@@ -1,0 +1,37 @@
+.contenedorCards{
+   
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    left: 25em;
+    top: 15em;
+}
+
+.card{
+    background-color: #ADD8E6;
+    margin-left: 10em;
+}
+
+.card-img-top{
+    width: 18rem !important;
+    height: 20rem !important;
+}
+
+.card img{
+    height: 20px;
+    width: 20px;
+}
+
+#HTML5{
+    margin-right:1rem;
+    background-color: #E34F26;
+}
+
+#CSS{
+    margin-right: 1rem;
+    background-color: #1572B6;
+}
+
+#JS{
+    background-color: #F7DF1E;
+}

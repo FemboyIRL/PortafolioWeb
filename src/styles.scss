@@ -1,0 +1,54 @@
+body{
+    background-image: url('../src/assets/img/Fondo-Portafolio.png');
+}
+
+.todo {
+    overflow: hidden;
+    position: relative;
+    height: 45.9em;
+
+}
+
+
+//-- Titulo --//
+.contenedorTitulo {
+    background-color: #C0C0C0 ;
+    position: relative;
+    left: 15rem;
+    width: 70rem;
+    padding: 5rem 5rem;
+    border: 10px solid black;
+    text-align: center;
+    opacity: 0.9;
+}
+.contenedorTitulo h1{
+    font-family:'Courier New', Courier, monospace;
+}
+
+.contenedorTitulo img {
+    border: 10px solid white;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 13.5rem;
+  height: 13.5rem;
+}
+//-- NAV --//
+.contenedorNav {
+    opacity: 0.5;
+    background-color: #FFC0CB;
+    padding: 5em 2em;
+    height: auto;
+    width: 20rem;
+    border: 10px solid rgb(255, 0, 174);
+    margin: 0 10em; /* Esto centra el contenedor horizontalmente */
+    position: relative;
+    top: -3rem; /* Ajusta la posición vertical */
+}
+
+.contenedorNav a{
+    color: black;
+    text-decoration: none ;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 2em;    
+}
