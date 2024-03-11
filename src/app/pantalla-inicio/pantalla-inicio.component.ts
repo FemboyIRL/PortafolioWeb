@@ -12,5 +12,7 @@ import { AppComponent } from '../app.component';
   styleUrl: './pantalla-inicio.component.scss'
 })
 export class PantallaInicioComponent {
-  
+    constructor(){
+
+    }
 }

@@ -1,0 +1,53 @@
+//-- CONTENIDO --//
+
+.texto{
+    width: 40em;
+    position: absolute;
+    left: 35em;
+    top: 17em;
+}
+
+.titulo h2{
+   color: #8A2BE2;
+   font-family: 'Roboto', sans-serif; 
+}
+
+.parrafos p{
+    font-family: 'Georgia', serif;
+    text-align: justify;
+    color: #F5F5DC;
+    
+}
+
+.parrafos ul li{
+    font-family: 'Georgia', serif;
+    color: #F5F5DC;
+}
+
+p img{
+    width: 20px;
+    height: 20px;
+}
+
+#HTML5{
+    margin-right:1rem;
+    background-color: #E34F26;
+}
+
+#CSS{
+    margin-right: 1rem;
+    background-color: #1572B6;
+}
+
+#JS{
+    background-color: #F7DF1E;
+}
+
+#Bootstrap{
+    margin-right: 1rem;
+    background-color: #6f10f5;
+}
+
+#Angular{
+    background-color: #b62b2c;
+}

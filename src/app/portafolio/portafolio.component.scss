@@ -14,7 +14,7 @@
 
 .card-img-top{
     width: 18rem !important;
-    height: 20rem !important;
+    height: 18rem !important;
 }
 
 .card img{
@@ -35,3 +35,44 @@
 #JS{
     background-color: #F7DF1E;
 }
+
+#Angular{
+    background-color: #b62b2c;
+}
+
+.boton {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #f4f4f4;
+    color: black;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-top: 1em;
+    margin-left: 5em;
+    cursor: pointer;
+}
+
+.boton:hover {
+    background-color: #370097;
+}
+
+.boton2 {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #f4f4f4;
+    color: black;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-top: 1em;
+    margin-left: 4em;
+    cursor: pointer;
+}
+
+.boton2:hover {
+    background-color: #370097;
+}
+

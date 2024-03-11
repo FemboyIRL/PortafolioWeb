@@ -8,6 +8,10 @@ import { ContactMeComponent } from './contact-me/contact-me.component';
 
 export const routes: Routes = [
     {
+        path: '',
+        component: PantallaInicioComponent
+    },
+    {
         path: 'sobre-mi',
         component: SobreMiComponent
     },
